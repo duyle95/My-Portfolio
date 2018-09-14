@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.skills {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.skills h1 {
+    text-align: center;
+}
+
+.progress > h5 {
+    margin: 0;
+    margin: 5px 0;
+}
+
+.progressbar {
+    background-color: #e9ecef;
+    border-radius: 13px;
+    padding: 3px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.progressbar>div {
+    background-color: #17a2b8;
+    border-radius: 10px;
+}
