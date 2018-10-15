@@ -1,7 +1,18 @@
-.container {
+.about {
+    min-height: 100vh;
+    background: #343434;
+}
+.about-text {
     width: 80%;
     text-align: center;
     margin: 0 auto;
+    padding-top: 3em;
+}
+
+.about-text span {
+    color: #fdd007;
+	font-size: 40px;
+	font-weight: 900;
 }
 
 .skills {
@@ -11,14 +22,16 @@
 
 .skills h1 {
     text-align: center;
+    color: #fdd007;
 }
 
 .progress > h5 {
     margin: 0;
     margin: 5px 0;
+    color: white;
 }
 
-.progressbar {
+/* .progressbar {
     background-color: #e9ecef;
     border-radius: 13px;
     padding: 3px;
@@ -29,4 +42,4 @@
 .progressbar>div {
     background-color: #17a2b8;
     border-radius: 10px;
-}
+} */

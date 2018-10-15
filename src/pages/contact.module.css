@@ -1,7 +1,13 @@
 .contact {
+    min-height: 100vh;
+    background: #343434;
     text-align: center;
     margin: 0 auto;
     padding-top: 7em;
+}
+
+.contact h1, p {
+    color: white !important;
 }
 
 .social {
